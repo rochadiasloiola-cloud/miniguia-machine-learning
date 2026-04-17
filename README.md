@@ -109,7 +109,7 @@ Além disso, reforçou a importância da engenharia de prompts como habilidade e
 
 
  Link do Repositório
- (adicione aqui o link do seu repositório no GitHub após publicar)
+ https://github.com/rochadiasloiola-cloud/miniguia-machine-learning/blob/main/README.md
 
 
  Diferencial
